@@ -1,0 +1,2 @@
+Data Saved -> Compression from: aabbccvv to: 2a2b2c2v
+Data Saved -> Decompression from: 2w3e4r to: wweeerrrr
